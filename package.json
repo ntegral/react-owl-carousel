@@ -7,7 +7,7 @@
     }
   ],
   "name": "@ntegral/react-owl-carousel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React implementation of the Owl Carousel",
   "main": "umd/OwlCarousel.js",
   "types": "umd/OwlCarousel.d.ts",
